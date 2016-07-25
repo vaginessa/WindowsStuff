@@ -1,0 +1,28 @@
+﻿Compilazione avviata 2/11/2016 7:26:18 PM.
+Progetto "C:\Users\phate\Documents\Visual Studio 2010\Projects\AntiDebug-3-v2\AntiDebug-3-v2\AntiDebug-3-v2.vcxproj" sul nodo 2 (destinazioni: build).
+InitializeBuildStatus:
+  Creazione di "Debug\AntiDebug-3-v2.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+ClCompile:
+  Tutti gli output sono aggiornati.
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AntiDebug-3-v2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "AntiDebug-3-v2.cpp"
+  AntiDebug-3-v2.cpp
+ManifestResourceCompile:
+  Tutti gli output sono aggiornati.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\phate\Documents\Visual Studio 2010\Projects\AntiDebug-3-v2\Debug\AntiDebug-3-v2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\AntiDebug-3-v2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\phate\Documents\Visual Studio 2010\Projects\AntiDebug-3-v2\Debug\AntiDebug-3-v2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\phate\Documents\Visual Studio 2010\Projects\AntiDebug-3-v2\Debug\AntiDebug-3-v2.lib" /MACHINE:X86 "Debug\AntiDebug-3-v2.exe.embed.manifest.res"
+  "Debug\AntiDebug-3-v2.obj"
+  Debug\stdafx.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AntiDebug-3-v2.exe.embed.manifest" /manifest "Debug\AntiDebug-3-v2.exe.intermediate.manifest"
+  Tutti gli output sono aggiornati.
+LinkEmbedManifest:
+  Tutti gli output sono aggiornati.
+  AntiDebug-3-v2.vcxproj -> C:\Users\phate\Documents\Visual Studio 2010\Projects\AntiDebug-3-v2\Debug\AntiDebug-3-v2.exe
+FinalizeBuildStatus:
+  Eliminazione del file "Debug\AntiDebug-3-v2.unsuccessfulbuild" in corso.
+  Aggiornamento timestamp di "Debug\AntiDebug-3-v2.lastbuildstate".
+Compilazione progetto "C:\Users\phate\Documents\Visual Studio 2010\Projects\AntiDebug-3-v2\AntiDebug-3-v2\AntiDebug-3-v2.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.86

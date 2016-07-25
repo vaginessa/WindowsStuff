@@ -1,0 +1,33 @@
+﻿Compilazione avviata 2/11/2016 5:30:36 PM.
+Progetto "c:\Users\phate\documents\visual studio 2010\Projects\AntiDebug-6\AntiDebug-6\AntiDebug-6.vcxproj" sul nodo 2 (destinazioni: build).
+PrepareForBuild:
+  Creazione directory "c:\users\phate\documents\visual studio 2010\Projects\AntiDebug-6\Debug\".
+InitializeBuildStatus:
+  Creazione di "Debug\AntiDebug-6.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\AntiDebug-6.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+  stdafx.cpp
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AntiDebug-6.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "AntiDebug-6.cpp"
+  AntiDebug-6.cpp
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AntiDebug-6.exe.embed.manifest.res" Debug\AntiDebug-6_manifest.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\phate\documents\visual studio 2010\Projects\AntiDebug-6\Debug\AntiDebug-6.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\AntiDebug-6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\phate\documents\visual studio 2010\Projects\AntiDebug-6\Debug\AntiDebug-6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\phate\documents\visual studio 2010\Projects\AntiDebug-6\Debug\AntiDebug-6.lib" /MACHINE:X86 "Debug\AntiDebug-6.exe.embed.manifest.res"
+  "Debug\AntiDebug-6.obj"
+  Debug\stdafx.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AntiDebug-6.exe.embed.manifest" /manifest "Debug\AntiDebug-6.exe.intermediate.manifest"
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AntiDebug-6.exe.embed.manifest.res" Debug\AntiDebug-6_manifest.rc 
+LinkEmbedManifest:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\phate\documents\visual studio 2010\Projects\AntiDebug-6\Debug\AntiDebug-6.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\AntiDebug-6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\phate\documents\visual studio 2010\Projects\AntiDebug-6\Debug\AntiDebug-6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\phate\documents\visual studio 2010\Projects\AntiDebug-6\Debug\AntiDebug-6.lib" /MACHINE:X86 "Debug\AntiDebug-6.exe.embed.manifest.res"
+  "Debug\AntiDebug-6.obj"
+  Debug\stdafx.obj
+  AntiDebug-6.vcxproj -> c:\users\phate\documents\visual studio 2010\Projects\AntiDebug-6\Debug\AntiDebug-6.exe
+FinalizeBuildStatus:
+  Eliminazione del file "Debug\AntiDebug-6.unsuccessfulbuild" in corso.
+  Aggiornamento timestamp di "Debug\AntiDebug-6.lastbuildstate".
+Compilazione progetto "c:\Users\phate\documents\visual studio 2010\Projects\AntiDebug-6\AntiDebug-6\AntiDebug-6.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:02.75
